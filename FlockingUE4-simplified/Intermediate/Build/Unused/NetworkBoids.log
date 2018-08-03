@@ -1,0 +1,7 @@
+﻿  Performing 3 actions (4 in parallel)
+  BoidsSpawner.cpp
+  [2/3] Link UE4Editor-NetworkBoids.dll
+  [3/3] Link UE4Editor-NetworkBoids.lib
+     Creating library C:\Users\Konrad\Documents\Unreal Projects\FlockingUE4-simplified\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-NetworkBoids.lib and object C:\Users\Konrad\Documents\Unreal Projects\FlockingUE4-simplified\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-NetworkBoids.exp
+     Creating library C:\Users\Konrad\Documents\Unreal Projects\FlockingUE4-simplified\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-NetworkBoids.suppressed.lib and object C:\Users\Konrad\Documents\Unreal Projects\FlockingUE4-simplified\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-NetworkBoids.suppressed.exp
+  Total build time: 10.77 seconds (Local executor: 9.65 seconds)

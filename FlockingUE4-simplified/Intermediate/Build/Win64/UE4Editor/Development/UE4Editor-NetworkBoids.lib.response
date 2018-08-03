@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-NetworkBoids.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\magomez\Google Drive\ChemistryPassport\HerdProject_UnrealEngine\FlockingUE4-simplified\Intermediate\Build\Win64\UE4Editor\Development\NetworkBoids\BoidsBase.cpp.obj"
+"C:\Users\magomez\Google Drive\ChemistryPassport\HerdProject_UnrealEngine\FlockingUE4-simplified\Intermediate\Build\Win64\UE4Editor\Development\NetworkBoids\BoidsGameState.cpp.obj"
+"C:\Users\magomez\Google Drive\ChemistryPassport\HerdProject_UnrealEngine\FlockingUE4-simplified\Intermediate\Build\Win64\UE4Editor\Development\NetworkBoids\NetworkBoids.cpp.obj"
+"C:\Users\magomez\Google Drive\ChemistryPassport\HerdProject_UnrealEngine\FlockingUE4-simplified\Intermediate\Build\Win64\UE4Editor\Development\NetworkBoids\BoidsActor.cpp.obj"
+"C:\Users\magomez\Google Drive\ChemistryPassport\HerdProject_UnrealEngine\FlockingUE4-simplified\Intermediate\Build\Win64\UE4Editor\Development\NetworkBoids\BoidsPlayerPawn.cpp.obj"
+"C:\Users\magomez\Google Drive\ChemistryPassport\HerdProject_UnrealEngine\FlockingUE4-simplified\Intermediate\Build\Win64\UE4Editor\Development\NetworkBoids\BoidsSpawner.cpp.obj"
+"C:\Users\magomez\Google Drive\ChemistryPassport\HerdProject_UnrealEngine\FlockingUE4-simplified\Intermediate\Build\Win64\UE4Editor\Development\NetworkBoids\BoidsActor.gen.cpp.obj"
+"C:\Users\magomez\Google Drive\ChemistryPassport\HerdProject_UnrealEngine\FlockingUE4-simplified\Intermediate\Build\Win64\UE4Editor\Development\NetworkBoids\BoidsBase.gen.cpp.obj"
+"C:\Users\magomez\Google Drive\ChemistryPassport\HerdProject_UnrealEngine\FlockingUE4-simplified\Intermediate\Build\Win64\UE4Editor\Development\NetworkBoids\BoidsGameState.gen.cpp.obj"
+"C:\Users\magomez\Google Drive\ChemistryPassport\HerdProject_UnrealEngine\FlockingUE4-simplified\Intermediate\Build\Win64\UE4Editor\Development\NetworkBoids\BoidsPlayerPawn.gen.cpp.obj"
+"C:\Users\magomez\Google Drive\ChemistryPassport\HerdProject_UnrealEngine\FlockingUE4-simplified\Intermediate\Build\Win64\UE4Editor\Development\NetworkBoids\BoidsSpawner.gen.cpp.obj"
+"C:\Users\magomez\Google Drive\ChemistryPassport\HerdProject_UnrealEngine\FlockingUE4-simplified\Intermediate\Build\Win64\UE4Editor\Development\NetworkBoids\NetworkBoids.init.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\NetworkBoids\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\magomez\Google Drive\ChemistryPassport\HerdProject_UnrealEngine\FlockingUE4-simplified\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-NetworkBoids.lib"

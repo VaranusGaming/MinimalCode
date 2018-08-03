@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\NetworkBoids.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{BAE27CE4-3E0E-4353-A409-7711EF26DA8B}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\NetworkBoids.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\NetworkBoidsEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{C519F6FF-AB40-4AC5-B2DE-9694669F6A69}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\desktop.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\NetworkBoids">
+			<UniqueIdentifier>{41D95FD6-25BA-44F4-95A0-7443C78101C9}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\NetworkBoids\BoidsBase.cpp">
+			<Filter>Source\NetworkBoids</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\NetworkBoids\BoidsBase.h">
+			<Filter>Source\NetworkBoids</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\NetworkBoids\BoidsGameState.cpp">
+			<Filter>Source\NetworkBoids</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\NetworkBoids\BoidsGameState.h">
+			<Filter>Source\NetworkBoids</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\NetworkBoids\desktop.ini">
+			<Filter>Source\NetworkBoids</Filter>
+		</None >
+		<None Include="..\..\Source\NetworkBoids\NetworkBoids.Build.cs">
+			<Filter>Source\NetworkBoids</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\NetworkBoids\NetworkBoids.cpp">
+			<Filter>Source\NetworkBoids</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\NetworkBoids\NetworkBoids.h">
+			<Filter>Source\NetworkBoids</Filter>
+		</ClInclude >
+		<Filter Include="Source\NetworkBoids\Actors">
+			<UniqueIdentifier>{A7F47950-8523-416A-A537-21B4DE1E9082}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\NetworkBoids\Actors\BoidsActor.cpp">
+			<Filter>Source\NetworkBoids\Actors</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\NetworkBoids\Actors\BoidsActor.h">
+			<Filter>Source\NetworkBoids\Actors</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\NetworkBoids\Actors\BoidsPlayerPawn.cpp">
+			<Filter>Source\NetworkBoids\Actors</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\NetworkBoids\Actors\BoidsPlayerPawn.h">
+			<Filter>Source\NetworkBoids\Actors</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\NetworkBoids\Actors\BoidsSpawner.cpp">
+			<Filter>Source\NetworkBoids\Actors</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\NetworkBoids\Actors\BoidsSpawner.h">
+			<Filter>Source\NetworkBoids\Actors</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\NetworkBoids\Actors\desktop.ini">
+			<Filter>Source\NetworkBoids\Actors</Filter>
+		</None >
+	</ItemGroup>
+</Project>
